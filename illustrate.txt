@@ -1,0 +1,9 @@
+marlin_ramps-2004.zip 是我们用来测试 ramps1.4的固件，不是最新版本，已经配置好支持 ramps1.4(单打印头)，支持2004LCD控制器。
+
+Marlin_ramps-12864E.rar 是支持12864LCD的版本，注意 编译前 安装 U8glib 到 ARDUINO library 目录，否则编译不了。
+
+Marlin_ramps_Thermocouple.rar 测试AD597热电偶的版本。
+
+Marlin_ramps-DualE.rar  双头打印机测试板本。
+
+Marlin_ramps-12864China.rar 是支持12864LCD 中文 的版本。
